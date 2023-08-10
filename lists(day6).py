@@ -1,4 +1,6 @@
-names = [ "joyce" , "cate" , "Velma" , "Maggy" , "Hannah"]
+#A list is stated using square brackets, it is modifiable hence different from tuples that are not modifyable.
+#Tuples are stated using normal brakets.
+names = ["joyce" , "cate" , "Velma" , "Maggy" , "Hannah"]
 print(names[2:5])
 print(names[2])
 print(names[2:])
