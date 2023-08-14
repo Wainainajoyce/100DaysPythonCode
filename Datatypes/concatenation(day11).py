@@ -17,5 +17,8 @@ print(stat4)
 him = "He is pissed"
 print(him.title())
 
-
+#Concatenation by setting a variable and using join.
+s = ""
+seq = ("a", "b", "c") # This is sequence of strings.
+print (s.join( seq ))
 
