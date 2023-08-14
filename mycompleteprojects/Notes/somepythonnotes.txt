@@ -1,0 +1,7 @@
+Advanced topics
+files and input/output
+Exception handling
+List Comprehension
+Lambda Expressions
+Regular Expressions
+Modules and Logging
