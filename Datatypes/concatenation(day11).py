@@ -12,3 +12,10 @@ print(stat3)
 stat4 = ''.join([stat1,stat2])#This separator is used to join the strings into one string hence its a requirement in the join method.
 print(stat4)
 
+
+#The title method converts all the words first letters to capital
+him = "He is pissed"
+print(him.title())
+
+
+

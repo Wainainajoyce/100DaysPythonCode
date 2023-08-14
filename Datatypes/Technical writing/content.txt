@@ -1,6 +1,37 @@
 1)Brief summary
+Joyce Wainaina is a third year student at the Technical University of Kenya.She is an enthusiast for python development 
+and backend development. I just started the path recently and though with alot of ups and downs, the learning has been awesome.
+
 2)A simple introduction
+I started this course 2 weeks ago and it has been a very productive 2 weeks. Basically, I have been able to learn alot 
+and meet up with new peoplwhom we study with. The trainer has been awesome and funny at the same time(haha)
+and still making sure that we all understand whatever she teaches.Here is a walkthrough of how my two weeks has been.Lets go!!!
 3)Start with a story
+It started on 2nd August. I had my expectations of how the course would be but the onboarding session exceeded my expectations.
+The course is well structured out and is all beginner and  intermediate level. The course has its own different way of learning as there are no recordings so that 
+we concerntrate and attend the classes on time and fully. This has been giving us first hand information and also an interactive session whwreby we all move at the same speed and level.The tutor
+also makes sure that she helps us when we are stuck before moving on. 
 4)Highlight your expectations
+Well, as i said earlier, for the first two weeks most of my expectations has been exceeded but as the course continues i have some expectations:
+a) By the end of the first month i should be able to write code for a simple application and be able to debug the errors associated with it.
+b)By the end of the first month i should be able to comfortably use the major functions, packages, modules and the python syntax of major lines of code.
+c)I should be able to comfortably use git and github as a version control system and look foward to using it in major platforms and for collaborations 
+between teams in the next months.
+d)I should be able to navigate between different tools in coding.
 5)Tell us what you learnt and how it met your expectations
+I have learnt alooot!!!
+a)Datatypes
+b)Bit operations
+c)Codelabs
+d)Lists
+e)LOgic operations
+f)Matrixes
+g)Membership operators
+h)Variables
+i)Print statements
 6)What you learnt that you did not know and 
+a)Membership operators
+b)List functions
+c)Bit operators
+d)Arithmetic
+e)Codelabs
