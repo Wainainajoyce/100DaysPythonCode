@@ -6,4 +6,3 @@ print(my_tuple.count(5))
 print(my_tuple.index(4))
 
 
-

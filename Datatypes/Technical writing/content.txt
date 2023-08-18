@@ -1,0 +1,46 @@
+Its the first time am doing a technical writing and I hope i will be able to communicate something brief about a small journey I am in.
+Innovation and invention ideas crawl my mind and how can I deploy them??? The ICT community offers all the tools and guidance for this and i couldn't wait to get started.
+Mhhhh..Hello.My name is Joyce 
+I started a python development course started 2 weeks ago.It has really been a very productive 2 weeks. Basically, I have been able to learn alot that I found hard to grasp a month ago.
+Here is a walkthrough of how my two weeks has been.Lets go!!!
+It started on 2nd August. I had my expectations of how the course would be but the onboarding session exceeded my expectations.
+The course is well structured out and is all beginner and  intermediate level. The course has its own different way of learning as there are no recordings so that 
+we concerntrate and attend the classes on time and fully. This has been giving us first hand information and also an interactive session whereby we all move at the same speed and level.The tutor
+also makes sure that she helps us when we are stuck before moving on. 
+Well, as i said earlier, for the first two weeks most of my expectations has been exceeded but as the course continues i have some expectations:
+a) By the end of the first month i should be able to write code for a simple application and be able to debug the errors associated with it.
+b)By the end of the first month i should be able to comfortably use the major functions, modules grasp abit of the python syntax.
+c)I should be able to comfortably use git and github as a version control system and look foward to using it in major platforms and for collaborations 
+between teams in the next months.
+d)I should be able to navigate between different tools in coding.
+I have learnt alooot!!!Let me state but a few:
+Datatypes,Bit operations,Codelabs,Lists,Logic operations,Matrixes,Membership operators,Variables,Print statements
+I have learnt some content that I did not know about python and brushed through the ones that I knew.
+
+I look foward to grasping more on Python Development, its frameworks and being a python developer after it all.
+Someone said:"The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant. The marriage of the two is a challenge and adventure that could be very fruitful."
+Happy coding!!
+This marks my first foray into technical writing, and I am excited to encapsulate a concise glimpse into my ongoing journey. My mind teems with innovative and inventive ideas, and the question arises: how can I bring these concepts to life? Fortunately, the ICT community provides an array of tools and guidance that allow me to explore and implement these ideas, igniting my eagerness to embark on this endeavor.
+
+Greetings! I am Joyce. Embarking on a Python development course just two weeks ago has proven incredibly productive. These past two weeks have allowed me to grasp concepts that once seemed inscrutable merely a month ago. Let's delve into a brief overview of these transformative weeks!
+
+It all commenced on August 2nd. While I had initial expectations for the course, the onboarding session surpassed them. The course boasts a meticulously structured curriculum catering to beginners and intermediates alike. Distinguishing itself, the course offers a unique approach—no recordings—ensuring our focused attendance during live sessions. This format imparts real-time knowledge and encourages interactive participation, fostering a collective learning pace. Our tutor is dedicated to assisting us when we encounter challenges, ensuring comprehension before moving forward.
+
+In these initial two weeks, my expectations have been surpassed. As the course unfolds, my aspirations for the upcoming weeks include:
+
+a) Crafting code for a simple application and adeptly debugging associated errors by the end of the first month.
+
+b) Developing proficiency in utilizing major functions, modules, and gaining a solid grasp of Python syntax within the same timeframe.
+
+c) Cultivating comfort with using Git and GitHub as a version control system, preparing for future collaborative projects and endeavors with other teams in the ensuing months.
+
+d) Navigating seamlessly between various coding tools.
+
+The breadth of my learning has been substantial! I've delved into an array of subjects, including Datatypes, Bit operations, Codelabs, Lists, Logic operations, Matrices, Membership operators, Variables, and Print statements. I've gained insights into previously unfamiliar Python concepts while also refining my grasp of those I was already acquainted with.
+
+Looking ahead, my enthusiasm to delve deeper into Python Development, explore its frameworks, and ultimately emerge as a proficient Python developer only intensifies. As the saying goes: "The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant. The marriage of the two is a challenge and adventure that could be very fruitful."
+
+Wishing you all happy coding as well!
+
+
+
